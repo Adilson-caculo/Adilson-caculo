@@ -28,3 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilson-caculo&" alt="adilson-caculo" /></p>
  
+  ##
+  
+  ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
